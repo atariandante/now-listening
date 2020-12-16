@@ -12,13 +12,13 @@ You need [Snip](https://github.com/dlrudie/Snip) in order to make this "now list
   - Happy stream!
   
 ### WISH LIST
-  [x] Calc song duration time to display a line that indicates the song progress.
-  [x] "No song playing" status reflected in the reproductor UI.
-  [x] Proper dev enviroment.
-  [x] Full costumization panel.
-    - [x] Brand/Solid color background.
-    - [x] Reproductor shape (border).
-    - [x] Album.
+  - [] Calc song duration time to display a line that indicates the song progress.
+  - [] "No song playing" status reflected in the reproductor UI.
+  - [] Proper dev enviroment.
+  - [] Full costumization panel:
+    - [] Brand/Solid color background.
+    - [] Reproductor shape (border).
+    - [] Album.
     
 ### DO YOUR THING
 You can fork this repo or you can modify it and create your own thing. Ideas will be welcomed.
