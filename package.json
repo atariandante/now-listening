@@ -1,0 +1,27 @@
+{
+  "name": "now-listening",
+  "version": "1.0.0",
+  "description": "Small repo to show what are you listening to your stream",
+  "main": "index.js",
+  "scripts": {
+    "dev:lint": "eslint src/js/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atariandante/now-listening.git"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "author": "atariandante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atariandante/now-listening/issues"
+  },
+  "homepage": "https://github.com/atariandante/now-listening#readme",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

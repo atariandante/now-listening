@@ -87,7 +87,7 @@ function displayData() {
     setTimeout(showText, 400);
 
     document.getElementById('image').setAttribute('src', imgPath);
-    document.getElementById('background-placeholder').style.backgroundImage = `url('${imgPath}')`;
+    document.getElementById("background-placeholder").style.backgroundImage = `url('${imgPath}')`;
     
     $('#image2').fadeOut(500, () => {
         document.getElementById('image2').setAttribute('src', imgPath);
